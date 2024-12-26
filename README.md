@@ -22,7 +22,7 @@ A simple registration form made with HTML and CSS.
 
 ## Live Demo
 
-[Registration Form](https://eddking-qs.github.io/HTML-Mini_Projects-Registration_Form/)
+[Registration Form](https://quintin-dev.github.io/HTML-Mini_Projects-Registration_Form/)
 
 ## Disclaimer
 
